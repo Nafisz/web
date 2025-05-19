@@ -1,4 +1,3 @@
-/* src/pages/Register.js */
 import RegisterForm from '../components/RegisterForm';
 import MathBackground from '../components/MathBackground';
 

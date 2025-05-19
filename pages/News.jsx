@@ -1,4 +1,3 @@
-/* src/pages/News.js */
 import NewsCarousel from '../components/NewsCarousel';
 
 const News = () => {
